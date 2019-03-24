@@ -1,2 +1,2 @@
 # BracketGenerator
-Web application built in Go intended to create dynamic and modular tournament brackets
+Web Application built out in Go intended to be able to build bracket models with multiple progressions which can be manipulated dynamically
